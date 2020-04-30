@@ -1,3 +1,9 @@
+## Food Board
+## 24번째 작품
+* 작품후기: https://so-tired.tistory.com/67
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
