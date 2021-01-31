@@ -1,6 +1,6 @@
 ## Food Board
 ## 24번째 작품
-* 작품후기: https://so-tired.tistory.com/67
+* 작품후기: https://so-tired.tistory.com/74?category=807583
 
 ---
 
